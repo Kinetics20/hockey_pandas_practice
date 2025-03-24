@@ -18,6 +18,8 @@ Processed data was saved in **PKL (Pickle)** format, a binary serialization form
 - **Jupyter Notebook** 📒  
 
 ## **License**  
+Hockey Database version 7.0, Jun. 23, 2012  
+  
 The Hockey Databank project allows free usage of its data, including commercial applications, under the following condition:  
 Any use of the data, in whole or in part, requires the inclusion of the following statement in a clearly visible location within the end product:  
 

@@ -17,9 +17,15 @@ Processed data was saved in **PKL (Pickle)** format, a binary serialization form
 - **Pandas** 🐼  
 - **Jupyter Notebook** 📒  
 
-### 💬 Feedback  
+## **License**  
+The Hockey Databank project allows free usage of its data, including commercial applications, under the following condition:  
+Any use of the data, in whole or in part, requires the inclusion of the following statement in a clearly visible location within the end product:  
 
+> "The information used herein was obtained free of charge from and is copyrighted by the Hockey Databank project. For more information about the Hockey Databank project, please visit [Hockey Databank](http://sports.groups.yahoo.com/group/hockey-databank)."
+
+## 💬 **Feedback**  
 Contributions and suggestions are welcome!  
 
 👤 **Author**: Piotr Lipiński  
 🗓 **Date**: March 2025  
+
